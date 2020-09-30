@@ -7,7 +7,7 @@ import queue
 import telegram
 
 #Telegram bot的token
-token = '1100318662:AAGOzmjqd7j4-TZk2Hkj0ZadpwDuvesvBZI'
+token = 'xxxxxxxxxxxxxxxxxxxx'
 
 #Telegram Chat id
 chatid = '-1001243935394'
